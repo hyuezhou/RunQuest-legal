@@ -99,6 +99,7 @@ RunQuest 的宝箱**不能用现金购买**（见第 6 节）。为保持透明�
 **限时活动奖励**
 
 - 限时活动奖励（如节日限定外观）仅在活动期间通过跑步获得，不出售，也不可通过随机掉落或订阅获得；活动结束后，已获得的奖励保留。
+- 2026 年万圣节活动（10 月 24 日至 11 月 2 日，每个游戏日在设备当地时间 05:00 换日）：在 App 内开始并完成户外出征，累计活动期间起跑的跑步或走路满 10 km 可获南瓜法师帽；跑步机里程与每日步数奖励不计入该活动。
 - 活动奖励为虚拟物品，无现金价值，不可转让或兑现。
 
 **赛季名次奖励（活动规则）**
@@ -238,6 +239,7 @@ Equipment, cosmetics, titles, pets, chests, card packs, season records, and othe
 **Limited-time event rewards**
 
 - Limited-time event rewards (such as holiday-exclusive cosmetics) can only be earned by running during the event period; they are not sold and cannot be obtained through random drops or subscriptions. Rewards already earned are kept after the event ends.
+- Halloween 2026 (October 24–November 2, with each game day beginning at 05:00 device-local time): start and finish outdoor adventures in the App and accumulate 10 km from runs or walks started during the event to earn the Pumpkin Wizard Hat. Treadmill distance and daily step rewards do not count toward this event.
 - Event rewards are virtual items with no cash value and cannot be transferred or redeemed.
 
 **Season rank rewards (event rules)**
