@@ -37,7 +37,7 @@ RunQuest 的数字内容（补签券、钻石包）和 RunQuest Plus 订阅通�
 - RunQuest 不接触、不保存你的完整支付信息。
 - 退款请求按 Apple App Store 的流程处理。
 - **钻石包**是消耗型购买，到账后计入你的钻石余额。收到 Apple 对某笔钻石包的退款通知后，我们会从你的余额中扣除对应数量的钻石；余额可能因此变为负数，为负时无法使用钻石，之后获得的钻石会先用于抵扣。
-- **订阅期内发放的权益**（例如每月补签券、每月赠送的外观时装）在到账后归你所有：在服务正常存续期间不会过期，也不会因你取消订阅而被收回；取消订阅后我们只是停止发放新的月度权益。**服务整体终止，或法律、平台要求的情形除外——届时依第 11 条「服务变更」处理。**
+- **订阅期内发放的权益**（例如每月补签券、每月赠送的外观时装）在到账后归你所有：在服务正常存续期间不会过期，也不会因你取消订阅而被收回；取消订阅后我们只是停止发放新的月度权益。**服务整体终止，或法律、平台要求的情形除外——届时依第 11 条「服务变更」处理。** 若对应订阅交易被 Apple 退款或撤销，该计费周期内已领取的 Plus 钻石按第 6 节扣回。
 
 ### 6. 付费边界
 
@@ -98,8 +98,8 @@ RunQuest 的宝箱**不能用现金购买**（见第 6 节）。为保持透明�
 
 **限时活动奖励**
 
-- 限时活动奖励（如节日限定外观）仅在活动期间通过跑步获得，不出售，也不可通过随机掉落或订阅获得；活动结束后，已获得的奖励保留。
-- 2026 年万圣节活动（10 月 24 日至 11 月 2 日，每个游戏日在设备当地时间 05:00 换日）：在 App 内开始并完成户外出征，累计活动期间起跑的跑步或走路满 10 km 可获南瓜法师帽；跑步机里程与每日步数奖励不计入该活动。
+- 限时活动奖励（如节日限定外观）仅在活动期间通过本 App 记录的跑步或走路获得，不出售，也不可通过随机掉落或订阅获得；活动结束后，已获得的奖励保留。
+- 2026 年万圣节活动：活动期为 10 月 24 日至 11 月 2 日共 10 个游戏日（每个游戏日从设备当地时间 05:00 开始，即 10 月 24 日 05:00 至 11 月 3 日 05:00）。在 iPhone 或 Apple Watch 上的本 App 中开始并完成户外出征，起跑时间在活动期内的跑步或走路累计满 10 km，可获得南瓜法师帽（每人一次）。距离以本 App 结算记录的冒险距离为准，与出征页的活动进度一致（慢速高消耗时可能按能量消耗折算，与 GPS 读数略有差异）；每日步数奖励以及模拟或自报的里程不计入。奖励通过 App 信件发放：活动期内起跑但稍后才同步的 Apple Watch 跑步，只要在 11 月 9 日这个游戏日结束前（即 11 月 10 日 05:00 前）打开 iPhone 上的本 App 完成同步，仍会计入并发放奖励信；此后不再发放新的奖励信，已收到的奖励信可随时领取。本活动由 RunQuest 开发者举办，Apple 不是赞助方，也不以任何方式参与本活动。
 - 活动奖励为虚拟物品，无现金价值，不可转让或兑现。
 
 **赛季名次奖励（活动规则）**
@@ -139,6 +139,13 @@ RunQuest 在法律允许的最大范围内按“现状”和“可用”提供�
 
 你不得尝试作弊、篡改数据、绕过购买、攻击服务、滥用排行榜或邀请机制，或以可能伤害自己、他人、设备、平台或 RunQuest 的方式使用本 App。通过作弊、自动化或滥用邀请获得的奖励，我们可以撤销。
 
+**好友与社区规则**
+
+- 在「好友」页点击「获取我的好友码」即表示你同意本规则。昵称不得包含辱骂、骚扰、色情、仇恨或歧视内容，不得冒充他人，不得包含真实姓名、联系方式等个人信息，也不得用于广告或违法目的。
+- 我们对违规内容和滥用行为零容忍。App 会在写入和显示时过滤不当昵称；你可以对任何好友请求或好友使用「屏蔽」或「删除并屏蔽」，之后对方的请求和资料不再向你显示。
+- 发现违规，可在 App 内长按对应的请求或好友选择「举报」，或发邮件至 [support@astralogy.org](mailto:support@astralogy.org)（请附上对方好友码）。我们会在收到举报后 48 小时内处理，可删除违规资料并停用相关好友码。
+- 好友资料收集了什么、谁能看到、如何停止公开，见[隐私政策第 8 条](/)。
+
 ### 16. 条款变更
 
 我们可能会更新本条款。若条款有重大变化，会更新本页顶部的生效日期并在此发布新版本。
@@ -177,7 +184,7 @@ Digital content (streak-repair tickets, diamond packs) and RunQuest Plus subscri
 - RunQuest does not see or store your full payment information.
 - Refund requests follow Apple's App Store process.
 - **Diamond packs** are consumable purchases added to your diamond balance on delivery. When Apple notifies the App of an approved diamond-pack refund, we deduct the corresponding diamonds from your balance. Your balance may become negative; while it is negative, diamonds cannot be spent, and diamonds you earn afterwards are applied to the shortfall first.
-- **Benefits granted during an active subscription** (for example, monthly streak-repair tickets or a monthly cosmetic outfit) are yours once delivered: while the service remains available they do not expire, and they are not revoked if you cancel. Canceling only stops future monthly grants. **This is subject to full discontinuation of the service, or to legal or platform requirements — in which case section 11 ("Service changes") applies.**
+- **Benefits granted during an active subscription** (for example, monthly streak-repair tickets or a monthly cosmetic outfit) are yours once delivered: while the service remains available they do not expire, and they are not revoked if you cancel. Canceling only stops future monthly grants. **This is subject to full discontinuation of the service, or to legal or platform requirements — in which case section 11 ("Service changes") applies.** If the related subscription transaction is refunded or revoked by Apple, Plus diamonds claimed in that billing period are deducted as described in section 6.
 
 ### 6. Paid-benefit boundaries
 
@@ -238,8 +245,8 @@ Equipment, cosmetics, titles, pets, chests, card packs, season records, and othe
 
 **Limited-time event rewards**
 
-- Limited-time event rewards (such as holiday-exclusive cosmetics) can only be earned by running during the event period; they are not sold and cannot be obtained through random drops or subscriptions. Rewards already earned are kept after the event ends.
-- Halloween 2026 (October 24–November 2, with each game day beginning at 05:00 device-local time): start and finish outdoor adventures in the App and accumulate 10 km from runs or walks started during the event to earn the Pumpkin Wizard Hat. Treadmill distance and daily step rewards do not count toward this event.
+- Limited-time event rewards (such as holiday-exclusive cosmetics) can only be earned through runs or walks recorded in the App during the event period; they are not sold and cannot be obtained through random drops or subscriptions. Rewards already earned are kept after the event ends.
+- Halloween 2026: the event runs for 10 game days, October 24–November 2 (each game day begins at 05:00 device-local time, i.e. October 24 05:00 to November 3 05:00). Start and finish outdoor adventures in the App on iPhone or Apple Watch; runs or walks started during the event that add up to 10 km earn the Pumpkin Wizard Hat (once per player). Distance is the adventure distance recorded at settlement in the App, matching the event progress shown on the adventure screen (slow, high-effort sessions may be credited by energy expenditure and can differ slightly from GPS readings); daily step rewards and simulated or self-reported distance do not count. The reward is delivered as an in-App mail: Apple Watch runs started during the event but synced later still count, provided you open the App on iPhone to sync before the end of the November 9 game day (before November 10, 05:00); no new reward mail is sent after that, and a reward mail already received can be claimed at any time. This event is run by the RunQuest developer; Apple is not a sponsor of, and is not involved in, this event in any way.
 - Event rewards are virtual items with no cash value and cannot be transferred or redeemed.
 
 **Season rank rewards (event rules)**
@@ -278,6 +285,13 @@ This page is provided in both Chinese and English. **If there is any ambiguity o
 ### 15. Acceptable use
 
 You may not attempt to cheat, tamper with data, bypass purchases, attack services, abuse leaderboards or the invite mechanism, or use the App in a way that may harm yourself, others, devices, platforms, or RunQuest. We may revoke rewards obtained through cheating, automation, or invite abuse.
+
+**Friends & community rules**
+
+- By tapping "Get my friend code" on the Friends screen you agree to these rules. Nicknames must not contain abusive, harassing, sexual, hateful, or discriminatory content, impersonate others, include real names, contact details, or other personal information, or be used for advertising or unlawful purposes.
+- We have zero tolerance for objectionable content and abusive users. The App filters inappropriate nicknames when they are saved and displayed; you can "Block" or "Remove & block" any friend request or friend, after which their requests and profile are no longer shown to you.
+- To report a violation, long-press the request or friend in the App and choose "Report", or email [support@astralogy.org](mailto:support@astralogy.org) with their friend code. We act on reports within 48 hours and may remove violating profiles and disable the related friend code.
+- For what the friend profile contains, who can see it, and how to stop sharing, see [Privacy Policy, section 8](/).
 
 ### 16. Changes to these terms
 
